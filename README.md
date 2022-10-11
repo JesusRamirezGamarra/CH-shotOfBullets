@@ -20,3 +20,10 @@
 >>Aspectos a incluir en el entregable:
 Entregar el proyecto completo, con los scripts modificados y el prefab creado.
 
+
+  <p align="center">    
+    <img src="./public/Index.png" alt="Demo Shot of Bullets" height="350">    
+  </p>
+  <p align="center">
+       CoderHouse - VideoGames With Unity
+  </p>
