@@ -113,7 +113,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   direction: {x: 1, y: 1, z: 1}
-  damege: 5
+  damage: 10
 --- !u!114 &-3515709941239074701
 MonoBehaviour:
   m_ObjectHideFlags: 0

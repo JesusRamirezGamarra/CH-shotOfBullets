@@ -4,7 +4,7 @@ public class Bala : MonoBehaviour
 {
     public float speed = .25f;
     public Vector3 direction =  new Vector3(1,1,1);
-    public int damege = 0;
+    public int damage = 0;
 
     
     // Start is called before the first frame update

@@ -318,14 +318,14 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1204250422}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: caf364fc1c1425345b13d063a2f9e702, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.25
   direction: {x: 0, y: 0, z: -1}
-  damege: 0
+  damage: 0
 --- !u!1 &1369908206
 GameObject:
   m_ObjectHideFlags: 0
@@ -440,7 +440,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 0.25
   direction: {x: 0, y: 0, z: -1}
-  damege: 0
+  damage: 0
 --- !u!114 &1369908212
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -455,7 +455,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 0.25
   direction: {x: 0, y: 0, z: -1}
-  damege: 0
+  damage: 0
 --- !u!1001 &5240929965282577663
 PrefabInstance:
   m_ObjectHideFlags: 0
